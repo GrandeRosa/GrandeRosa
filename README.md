@@ -42,12 +42,3 @@ O projeto possui os seguintes arquivos e diretórios:
 Este projeto não será mais atualizado e não está em desenvolvimento ativo. Portanto, não há previsão de melhorias futuras.
 
 
-
-## Instruções para Executar o Projeto
-
-Para visualizar o projeto, basta abrir os arquivos HTML em um navegador da web. Certifique-se de manter a estrutura de pastas intacta para que os arquivos CSS e JavaScript sejam carregados corretamente.
-
-## Bugs Conhecidos e Melhorias Futuras
-
-- A tentativa de implementar uma barra de pesquisa com filtragem na página de produtos não obteve sucesso. A barra de pesquisa foi removida temporariamente do projeto.
-- Possíveis melhorias futuras incluem a correção da barra de pesquisa, a implementação de funcionalidades de login e a adição de mais páginas e funcionalidades.
